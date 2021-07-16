@@ -34,4 +34,4 @@ Based on [Kasper's configuration](https://github.com/kasper/.config/blob/master/
 | **Optional** | You can remove or change the App or Add the App |
 | COMMAND + CTRL + t | open Terminal |
 | COMMAND + CTRL + c | open Google Chrome |
-| COMMAND + CTRL + N | open Notion |
+| COMMAND + CTRL + n | open Notion |
